@@ -1,4 +1,4 @@
-**#✨ Hello, I'm Fernanda! ✨**
+** # ✨ Hello, I'm Fernanda! ✨**
 
 - 🔭 I’m currently looking for a remote software developer position, open to relocate.
 - 🌱 I’m currently learning Advanced Python on Zero to Mastery Academy
